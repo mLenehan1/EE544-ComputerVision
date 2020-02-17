@@ -1,0 +1,63 @@
+\documentclass[a4paper 12pt]{article}
+
+\usepackage[utf8]{inputenc}
+\usepackage[T1]{fontenc}
+\usepackage{mathptmx}
+\usepackage{textcomp}
+\usepackage[UKenglish]{babel}
+\usepackage{amsmath, amssymb}
+\usepackage{float}
+\usepackage{xcolor}
+\definecolor{codegreen}{rgb}{0,0.6,0}
+\definecolor{codepurple}{rgb}{0.58,0,0.82}
+\usepackage{listings}
+\lstdefinestyle{code}{
+	commentstyle=\color{codegreen},
+	keywordstyle=\color{magenta},
+	stringstyle=\color{codepurple},
+	showspaces=false,
+	showstringspaces=false,
+	breaklines=true
+}
+\lstset{style=code}
+\usepackage[hidelinks]{hyperref}
+\hypersetup{
+	colorlinks=false
+}
+\usepackage[style=ieee]{biblatex}
+\bibliography{sources/biblio}
+\renewcommand{\baselinestretch}{1.5}
+
+\setlength{\parindent}{0pt}
+\setlength{\parskip}{1em}
+
+% figure support
+\usepackage{import}
+\usepackage{xifthen}
+\pdfminorversion=7
+\usepackage{pdfpages}
+\usepackage{transparent}
+\newcommand{\incfig}[1]{%
+	\def\svgwidth{\columnwidth}
+	\import{./figures/}{#1.pdf_tex}
+}
+
+\pdfsuppresswarningpagegroup=1
+
+\begin{document}
+\hypersetup{pageanchor=false}
+\input{cover/cover}
+\hypersetup{pageanchor=true}
+\pagenumbering{alph}
+\input{cover/declaration}
+\pagenumbering{arabic}
+\input{sections/abstract}
+\tableofcontents
+\clearpage
+\section{Introduction}
+\input{sections/introduction}
+\section{Conclusion}
+\input{sections/conclusion}
+\clearpage
+\printbibliography
+\end{document}
