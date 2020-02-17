@@ -1,0 +1,145 @@
+\documentclass[a4paper]{article}
+
+\usepackage[utf8]{inputenc}
+\usepackage[T1]{fontenc}
+\usepackage{textcomp}
+\usepackage[UKenglish]{babel}
+\usepackage{amsmath, amssymb}
+\usepackage{geometry}
+\geometry{
+	a4paper,
+	top=5mm,
+	left=5mm,
+	right=5mm,
+	headheight=9pt,
+	bottom=20mm,
+}
+\pagestyle{empty}
+
+% figure support
+\usepackage{import}
+\usepackage{xifthen}
+\pdfminorversion=7
+\usepackage{pdfpages}
+\usepackage{transparent}
+\newcommand{\incfig}[1]{%
+	\def\svgwidth{\columnwidth}
+	\import{./figures/}{#1.pdf_tex}
+}
+
+\pdfsuppresswarningpagegroup=1
+
+\begin{document}
+\thispagestyle{empty}
+	\begin{table}[h]
+		\centering
+		\caption{EE44 Computer Vision Exam Topic List}
+		\begin{tabular}{|c||c|c||c|c||c|c||c|c||c|c||}
+			\hline
+			\hline
+			Topic & 2019 & R & 2018 & R & 2017 & R & 2016 & R & 2015 & R \\
+			\hline
+			Interest Points & \checkmark & \checkmark & & & & & & & & \\
+			Scale Invariant Feature Transform & \checkmark & \checkmark
+							  & \checkmark & & & & & & & \\
+			Scale-Space Extrema Detection & \checkmark & & & & & & & & & \\
+			ML Terms & \checkmark & & \checkmark & & & & & & & \\
+			Feature Normalization & \checkmark & & & & \checkmark & & & & & \\
+			LOOCV & \checkmark & & & & & & & & & \\
+			SVM Classification & \checkmark & \checkmark & & & \checkmark & &
+					   & & & \\
+			Histogram of Oriented Gradients (HOG) & \checkmark
+							      & \checkmark
+							      & \checkmark & &
+							      & & & & & \\
+			Precision \& Recall & \checkmark & & & & & & & & & \\
+			HOG VS SIFT & \checkmark & & & & & & & & & \\
+			Confusion Matrix & \checkmark & & & & & & & & & \\
+			Hidden Layer in ANN & \checkmark & & & & & & & & & \\
+			Weight Matrix \& Bias Vector & \checkmark & & & \checkmark & & &
+						     & & & \\
+			Logistic Classifier & & & & \checkmark & & & & & & \\
+			Gradient Descent & \checkmark & & & & & \checkmark & & & & \\
+			Translational Invariance in CNN & \checkmark & & & & &
+							& & & & \\
+			Convolution & \checkmark & & & & & & & & & \\
+			Dilated Convolution in CNN & \checkmark & & & & & & & &
+						   & \\
+			Receptice Field of CNN & \checkmark & & & & & & & & & \\
+			Stride and Padding in CNN & \checkmark & & & & \checkmark & & & &
+						  & \\
+			Transfer Learning in CNN & \checkmark & & & & & & & & & \\
+			Union Evaluation Metric in CNN & \checkmark & & & & & &
+						       & & & \\
+			Non-Maximum Suppression in CNN & \checkmark & & & & & &
+						       & & & \\
+			Region-Based CNN (R-CNN) & \checkmark & & & & & & & &
+						 & \\
+			Salient Features & & \checkmark & & & & & & & & \\
+			Training \& Testing & & \checkmark & & & & & & & & \\
+			Unbalanced Data Sets& & \checkmark & \checkmark & & & & & & & \\
+			Hughes Phenomenon & & \checkmark & & & \checkmark & & & & & \\
+			Sequential Algorigthms & & \checkmark & & & & & & & & \\
+			Binary Decision Tree & & \checkmark & & & & & & & & \\
+			Bias \& Variance & & \checkmark & \checkmark & & & & & & & \\
+			Fully Connected Layer in ANN & & \checkmark & \checkmark &
+						     & \checkmark & &
+						     & & & \\
+			Back-Propagation in ANN & & \checkmark & \checkmark & & & & & &
+						& \\
+			Softmax in ANN & & \checkmark & & & & \checkmark & & & & \\
+			Multinomial Logistic Classification & & \checkmark & &
+							    & & & & & & \\
+			Overfitting in ANN & & \checkmark & & & & & & & & \\
+			Visualization & & \checkmark & & & & & & & & \\
+			Standard/Depthwise Separable Convolution & & \checkmark
+								 & & & & & & & & \\
+			Fine Tuning Learning in CNN & & \checkmark & & & & & &
+						    & & \\
+			Autoencoders in CNN & & \checkmark & & & & & & & & \\
+			Adversarial Image & & \checkmark & & & & & & & & \\
+			RootSIFT & & & \checkmark & & & & & & & \\
+			Convolution Layer in CNN & & & \checkmark & \checkmark & \checkmark & & & & & \\
+			Pooling Layer in CNN & & & \checkmark & & \checkmark & & & & & \\
+			Stochastic Gradient Descent & & & \checkmark & & & \checkmark & & & & \\
+			Back Propagation Maths & & & \checkmark & & & & & & & \\
+			Momentum in Gradient Descent & & & \checkmark & & & \checkmark & & & & \\
+			U-Net & & & \checkmark & & & & & & & \\
+			Semantic VS Instance Segmentation & & & \checkmark & & & & & & & \\
+			Bounding Box Evaluation Method & & & \checkmark & & & & & & & \\
+			CNN design & & & \checkmark & & & & & & & \\
+			Distance Metrics & & & & & \checkmark & & & & & \\
+			Random Subsampling VS K-Fold CV & & & & & & & & & & \\
+			Optimal Feature Selection & & & & & & & & & & \\
+			Random Forest & & & & & & & & & & \\
+			Deformable Part Models (DPM) & & & & & & & & & & \\
+			CNN Dropout & & & & \checkmark & & & & & & \\
+			VGGNet & & & & \checkmark & & & & & & \\
+			ResNet & & & & \checkmark & & & & & & \\
+			YOLO CNN & & & & \checkmark & & & & & & \\
+			Morphology & & & & & \checkmark & \checkmark & \checkmark & & & \\
+			CMOS vs CCD & & & & & \checkmark & & & & & \\
+			Optical/Lighting Terms & & & & & \checkmark & & \checkmark & & & \\
+			2.5D vs 3D& & & & & \checkmark & & & & & \\
+			Epipolar Contraint & & & & & \checkmark & & & & & \\
+			PCA & & & & & \checkmark & & & & & \\
+			Eigneimage & & & & & \checkmark & & & & & \\
+			K-Means & & & & & & \checkmark & & & & \\
+			Local Binary Patterns & & & & & & \checkmark & & & & \\
+			Corner Detector & & & & & & & & & & \\
+			Bilateral/Gaussian Filtering & & & & & & & & & & \\
+			      & & & & & & & & & & \\
+			      & & & & & & & & & & \\
+			      & & & & & & & & & & \\
+			      & & & & & & & & & & \\
+			      & & & & & & & & & & \\
+			      & & & & & & & & & & \\
+			      & & & & & & & & & & \\
+			      & & & & & & & & & & \\
+			      & & & & & & & & & & \\
+			      & & & & & & & & & & \\
+			\hline
+			\hline
+		\end{tabular}
+	\end{table}
+\end{document}
