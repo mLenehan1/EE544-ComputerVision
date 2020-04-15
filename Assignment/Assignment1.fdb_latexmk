@@ -1,10 +1,10 @@
 # Fdb version 3
-["biber Assignment1"] 1586938887 "Assignment1.bcf" "Assignment1.bbl" "Assignment1" 1586939908
-  "Assignment1.bcf" 1586939908 90547 91cd86a44daca6d11070175315dcd606 ""
+["biber Assignment1"] 1586938887 "Assignment1.bcf" "Assignment1.bbl" "Assignment1" 1586940209
+  "Assignment1.bcf" 1586940209 90547 91cd86a44daca6d11070175315dcd606 ""
   (generated)
   "Assignment1.blg"
   "Assignment1.bbl"
-["pdflatex"] 1586939903 "Assignment1.tex" "Assignment1.pdf" "Assignment1" 1586939908
+["pdflatex"] 1586940205 "Assignment1.tex" "Assignment1.pdf" "Assignment1" 1586940209
   "/etc/texmf/web2c/texmf.cnf" 1570008459 475 c0e671620eb5563b2130f56340a5fde8 ""
   "/usr/share/texlive/texmf-dist/fonts/enc/dvips/base/8r.enc" 1165713224 4850 80dc9bab7f31fb78a000ccfed0e27cab ""
   "/usr/share/texlive/texmf-dist/fonts/map/fontname/texfonts.map" 1511824771 3332 103109f5612ad95229751940c61aada0 ""
@@ -133,20 +133,20 @@
   "/usr/share/texmf/web2c/texmf.cnf" 1551226139 34566 ab5be96bde1a5acfd4f881dbe566b5fb ""
   "/var/lib/texmf/fonts/map/pdftex/updmap/pdftex.map" 1570008611 3236060 fd056e42459c13cbcb0cc6e0a7cae8d4 ""
   "/var/lib/texmf/web2c/pdftex/pdflatex.fmt" 1570008633 4233098 2c2d4ede186152568038ce2d878a448f ""
-  "Assignment1.aux" 1586939908 23330 0d1dfb1224e3219b51894b19905cf847 ""
+  "Assignment1.aux" 1586940209 23333 d23d88d99adaa2053e477cc2fe77374a ""
   "Assignment1.bbl" 1586938888 466 d461c786d5ba60caa26aa3f363275b19 "biber Assignment1"
-  "Assignment1.out" 1586939908 3101 d07cb811b3497bae4b5b35e16839152e ""
-  "Assignment1.run.xml" 1586939908 2519 0738b1417fbd08f5ad724ca73111350d ""
+  "Assignment1.out" 1586940209 3101 d07cb811b3497bae4b5b35e16839152e ""
+  "Assignment1.run.xml" 1586940209 2519 0738b1417fbd08f5ad724ca73111350d ""
   "Assignment1.tex" 1586938982 1989 32165a4b211727cc4168a4bb5bd7cb3a ""
-  "Assignment1.toc" 1586939908 5850 b8efa90b4cf71431b184b843de1b95c9 ""
+  "Assignment1.toc" 1586940209 5851 505d34cf3e76a8536785955214b5ad80 ""
   "code/q1pa.py" 1586937312 5554 2a3c173f708cc14d7bb144297cb47c70 ""
   "code/q1pb.py" 1586937356 5651 de870ca362001d39f342c84ebca7b12c ""
   "code/q1pc.py" 1586937443 5559 97b90735b1fecfccbc676c89a7bc18fd ""
   "code/q1pd.py" 1586937602 5691 679a25711eed2c14666619add2f32d2f ""
   "code/q1pe.py" 1586937647 5792 998abdc9af950b7c62cd86d37be41965 ""
   "code/q2a.py" 1586937750 4102 144924096e5bb7bb5b6af27216b2f98c ""
-  "cover/cover.tex" 1581927979 708 f214ab7833b34dfd8970921b2f05b624 ""
-  "cover/declaration.tex" 1581927999 1615 c9c7b3203007a35467c39eb4c05f7693 ""
+  "cover/cover.tex" 1586939968 708 fdd28066ccc64f56cfb8c8e84c5d8d30 ""
+  "cover/declaration.tex" 1586939978 1615 54baf1097cfc72d76e8859f3b8d5e1d3 ""
   "images/Code/batchnorm.png" 1586937620 473579 772c6887ba050dce64450ddbe507b2ef ""
   "images/Code/combo.png" 1586937673 508270 cbada6787528423f34362c43a8b55030 ""
   "images/Code/compile.png" 1586937246 90632 8f78e23766586a9a8548a3b89c987b9e ""
@@ -197,10 +197,10 @@
   "sections/Question1/intro.tex" 1586939665 1192 73e964ada1edb71bde9cf0a463988264 ""
   "sections/Question2/intro.tex" 1586939873 569 563bbaba260cb64aa1512667de5b7da3 ""
   "sections/Question2/partA.tex" 1586939903 5316 2e69558f4b2c3e1e0f0da45220310789 ""
-  "sections/Question2/partB.tex" 1586935572 91 b3c82b1d7f60f32c459895b641f2bad1 ""
+  "sections/Question2/partB.tex" 1586939910 91 b3c82b1d7f60f32c459895b641f2bad1 ""
   "sections/appendices.tex" 1586939154 486 37028db6a22c2382f0a220bef6f7c6c3 ""
   "sections/conclusion.tex" 1586939608 1341 63a08374244786c17177354b225297d0 ""
-  "sections/introduction.tex" 1586939621 804 235c9b94a6482c3686a0fc95e44ce707 ""
+  "sections/introduction.tex" 1586940203 984 c30b48d51a31cf56e78bbeb459c974db ""
   (generated)
   "Assignment1.pdf"
   "Assignment1.log"
