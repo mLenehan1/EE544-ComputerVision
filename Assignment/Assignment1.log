@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.19 (TeX Live 2019/dev/Debian) (preloaded format=pdflatex 2019.10.2)  15 APR 2020 03:27
+This is pdfTeX, Version 3.14159265-2.6-1.40.19 (TeX Live 2019/dev/Debian) (preloaded format=pdflatex 2019.10.2)  15 APR 2020 09:38
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -446,7 +446,7 @@ Package uniquecounter Info: New unique counter `rerunfilecheck' on input line 28
 )
 \Hy@SectionHShift=\skip46
 )
-Package hyperref Info: Option `colorlinks' set `false' on input line 26.
+Package hyperref Info: Option `colorlinks' set `false' on input line 28.
  (/usr/share/texlive/texmf-dist/tex/latex/biblatex/biblatex.sty
 Package: biblatex 2018/11/02 v3.12 programmable bibliographies (PK/MW)
  (/usr/share/texlive/texmf-dist/tex/latex/etoolbox/etoolbox.sty
@@ -765,27 +765,27 @@ LaTeX Warning: Unused global option(s):
 (./Assignment1.aux)
 \openout1 = `Assignment1.aux'.
 
-LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 47.
-LaTeX Font Info:    ... okay on input line 47.
-LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 47.
-LaTeX Font Info:    ... okay on input line 47.
-LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 47.
-LaTeX Font Info:    ... okay on input line 47.
-LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 47.
-LaTeX Font Info:    ... okay on input line 47.
-LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 47.
-LaTeX Font Info:    ... okay on input line 47.
-LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 47.
-LaTeX Font Info:    ... okay on input line 47.
-LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 47.
-LaTeX Font Info:    Try loading font information for TS1+cmr on input line 47.
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 49.
+LaTeX Font Info:    ... okay on input line 49.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 49.
+LaTeX Font Info:    ... okay on input line 49.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 49.
+LaTeX Font Info:    ... okay on input line 49.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 49.
+LaTeX Font Info:    ... okay on input line 49.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 49.
+LaTeX Font Info:    ... okay on input line 49.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 49.
+LaTeX Font Info:    ... okay on input line 49.
+LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 49.
+LaTeX Font Info:    Try loading font information for TS1+cmr on input line 49.
  (/usr/share/texlive/texmf-dist/tex/latex/base/ts1cmr.fd
 File: ts1cmr.fd 2014/09/29 v2.5h Standard LaTeX font definitions
 )
-LaTeX Font Info:    ... okay on input line 47.
-LaTeX Font Info:    Checking defaults for PD1/pdf/m/n on input line 47.
-LaTeX Font Info:    ... okay on input line 47.
-LaTeX Font Info:    Try loading font information for T1+ptm on input line 47.
+LaTeX Font Info:    ... okay on input line 49.
+LaTeX Font Info:    Checking defaults for PD1/pdf/m/n on input line 49.
+LaTeX Font Info:    ... okay on input line 49.
+LaTeX Font Info:    Try loading font information for T1+ptm on input line 49.
  (/usr/share/texlive/texmf-dist/tex/latex/psnfss/t1ptm.fd
 File: t1ptm.fd 2001/06/04 font definitions for T1/ptm.
 ) (/usr/share/texlive/texmf-dist/tex/context/base/mkii/supp-pdf.mkii
@@ -815,7 +815,7 @@ File: epstopdf-sys.cfg 2010/07/13 v1.3 Configuration of (r)epstopdf for TeX Live
 ))
 \c@lstlisting=\count324
 \AtBeginShipoutBox=\box36
-Package hyperref Info: Link coloring OFF on input line 47.
+Package hyperref Info: Link coloring OFF on input line 49.
  (/usr/share/texlive/texmf-dist/tex/latex/hyperref/nameref.sty
 Package: nameref 2016/05/21 v2.44 Cross-referencing by name of section
  (/usr/share/texlive/texmf-dist/tex/generic/oberdiek/gettitlestring.sty
@@ -823,9 +823,9 @@ Package: gettitlestring 2016/05/16 v1.5 Cleanup title references (HO)
 )
 \c@section@level=\count325
 )
-LaTeX Info: Redefining \ref on input line 47.
-LaTeX Info: Redefining \pageref on input line 47.
-LaTeX Info: Redefining \nameref on input line 47.
+LaTeX Info: Redefining \ref on input line 49.
+LaTeX Info: Redefining \pageref on input line 49.
+LaTeX Info: Redefining \nameref on input line 49.
  (./Assignment1.out) (./Assignment1.out)
 \@outlinefile=\write4
 \openout4 = `Assignment1.out'.
@@ -838,8 +838,8 @@ Package biblatex Info: Automatic encoding selection.
 Package biblatex Info: Trying to load bibliographic data...
 Package biblatex Info: ... file 'Assignment1.bbl' found.
  (./Assignment1.bbl)
-Package biblatex Info: Reference section=0 on input line 47.
-Package biblatex Info: Reference segment=0 on input line 47.
+Package biblatex Info: Reference section=0 on input line 49.
+Package biblatex Info: Reference segment=0 on input line 49.
  (/usr/share/texlive/texmf-dist/tex/latex/oberdiek/pdflscape.sty
 Package: pdflscape 2016/05/14 v0.11 Display of landscape pages in PDF (HO)
  (/usr/share/texlive/texmf-dist/tex/latex/graphics/lscape.sty
@@ -847,13 +847,13 @@ Package: lscape 2000/10/22 v3.01 Landscape Pages (DPC)
 )
 Package pdflscape Info: Auto-detected driver: pdftex on input line 81.
 )
-Package hyperref Info: Option `pageanchor' set `false' on input line 48.
+Package hyperref Info: Option `pageanchor' set `false' on input line 50.
  (./cover/cover.tex
 LaTeX Font Info:    Font shape `T1/ptm/bx/n' in size <17.28> not available
 (Font)              Font shape `T1/ptm/b/n' tried instead on input line 7.
 LaTeX Font Info:    Font shape `T1/ptm/bx/n' in size <14.4> not available
 (Font)              Font shape `T1/ptm/b/n' tried instead on input line 8.
-<images/Dcu-logo.png, id=184, 300.12125pt x 204.765pt>
+<images/Dcu-logo.png, id=200, 300.12125pt x 204.765pt>
 File: images/Dcu-logo.png Graphic file (type png)
 <use images/Dcu-logo.png>
 Package pdftex.def Info: images/Dcu-logo.png  used on input line 11.
@@ -887,7 +887,7 @@ LaTeX Font Info:    Font shape `OT1/ptm/bx/n' in size <6> not available
  [1
 
 {/var/lib/texmf/fonts/map/pdftex/updmap/pdftex.map} <./images/Dcu-logo.png>])
-Package hyperref Info: Option `pageanchor' set `true' on input line 50.
+Package hyperref Info: Option `pageanchor' set `true' on input line 52.
  (./cover/declaration.tex
 LaTeX Font Info:    Try loading font information for T1+cmtt on input line 27.
  (/usr/share/texlive/texmf-dist/tex/latex/base/t1cmtt.fd
@@ -897,163 +897,300 @@ Overfull \hbox (33.40771pt too wide) in paragraph at lines 26--30
 \T1/cmtt/m/n/10 www4 . dcu . ie / sites / default / files / policy / 1 % 20-[] % 20integrity _ and _ plagiarism _
  []
 
-) [1] (./sections/abstract.tex
-LaTeX Font Info:    Font shape `T1/ptm/bx/n' in size <12> not available
-(Font)              Font shape `T1/ptm/b/n' tried instead on input line 11.
 ) [1] (./Assignment1.toc
 LaTeX Font Info:    Font shape `T1/ptm/bx/n' in size <10> not available
 (Font)              Font shape `T1/ptm/b/n' tried instead on input line 4.
- [2] [3])
+ [1] [2])
 \tf@toc=\write5
 \openout5 = `Assignment1.toc'.
 
- [4] (./sections/introduction.tex) (./sections/Question1/intro.tex) [5
+ [3] (./sections/introduction.tex) (./sections/Question1/intro.tex) [4
 
-] (./sections/Question1/PartA/partA.tex
-<images/vgglite.png, id=273, 365.60118pt x 313.87852pt>
+]
+LaTeX Font Info:    Font shape `T1/ptm/bx/n' in size <12> not available
+(Font)              Font shape `T1/ptm/b/n' tried instead on input line 62.
+ (./sections/Question1/PartA/partA.tex
+<images/vgglite.png, id=288, 365.60118pt x 313.87852pt>
 File: images/vgglite.png Graphic file (type png)
 <use images/vgglite.png>
 Package pdftex.def Info: images/vgglite.png  used on input line 11.
 (pdftex.def)             Requested size: 276.00105pt x 236.95528pt.
- [6 <./images/vgglite.png (PNG copy)>]
-<images/Code/loadData.png, id=280, 1499.6025pt x 596.2275pt>
+ [5 <./images/vgglite.png (PNG copy)>]
+<images/Code/loadData.png, id=296, 1499.6025pt x 596.2275pt>
 File: images/Code/loadData.png Graphic file (type png)
 <use images/Code/loadData.png>
 Package pdftex.def Info: images/Code/loadData.png  used on input line 26.
 (pdftex.def)             Requested size: 276.00105pt x 109.7272pt.
-<images/Code/loadDataFromDir.png, id=281, 1499.6025pt x 1130.2225pt>
+<images/Code/loadDataFromDir.png, id=297, 1499.6025pt x 1130.2225pt>
 File: images/Code/loadDataFromDir.png Graphic file (type png)
 <use images/Code/loadDataFromDir.png>
 Package pdftex.def Info: images/Code/loadDataFromDir.png  used on input line 41.
 (pdftex.def)             Requested size: 276.00105pt x 208.0014pt.
- [7 <./images/Code/loadData.png>] [8 <./images/Code/loadDataFromDir.png>]
-<images/Code/model.png, id=295, 1479.5275pt x 2007.5pt>
+ [6 <./images/Code/loadData.png>] [7 <./images/Code/loadDataFromDir.png>]
+<images/Code/model.png, id=311, 1479.5275pt x 2007.5pt>
 File: images/Code/model.png Graphic file (type png)
 <use images/Code/model.png>
 Package pdftex.def Info: images/Code/model.png  used on input line 72.
 (pdftex.def)             Requested size: 276.00105pt x 374.47551pt.
- [9 <./images/Code/model.png>] [10] [11]
-Overfull \hbox (14.46664pt too wide) in paragraph at lines 175--180
+<images/Code/compile.png, id=312, 1499.6025pt x 519.9425pt>
+File: images/Code/compile.png Graphic file (type png)
+<use images/Code/compile.png>
+Package pdftex.def Info: images/Code/compile.png  used on input line 83.
+(pdftex.def)             Requested size: 276.00105pt x 95.68803pt.
+ [8 <./images/Code/model.png>] [9 <./images/Code/compile.png>] [10]
+Overfull \hbox (14.46664pt too wide) in paragraph at lines 189--194
 \T1/ptm/m/n/10 The cor-rect out-put for the neural net-work struc-ture was prin-ted us-ing the ``model.summary''
  []
 
-<images/q1/pa/q1pamodel.png, id=315, 397.485pt x 303.2506pt>
+<images/q1/pa/q1pamodel.png, id=333, 397.485pt x 303.2506pt>
 File: images/q1/pa/q1pamodel.png Graphic file (type png)
 <use images/q1/pa/q1pamodel.png>
-Package pdftex.def Info: images/q1/pa/q1pamodel.png  used on input line 183.
+Package pdftex.def Info: images/q1/pa/q1pamodel.png  used on input line 197.
 (pdftex.def)             Requested size: 276.00105pt x 210.57114pt.
-<images/q1/pa/accuracy.png, id=319, 406.51875pt x 299.1175pt>
+[11]
+<images/q1/pa/accuracy.png, id=344, 406.51875pt x 299.1175pt>
 File: images/q1/pa/accuracy.png Graphic file (type png)
 <use images/q1/pa/accuracy.png>
-Package pdftex.def Info: images/q1/pa/accuracy.png  used on input line 196.
+Package pdftex.def Info: images/q1/pa/accuracy.png  used on input line 210.
 (pdftex.def)             Requested size: 276.00105pt x 203.08684pt.
-[12 <./images/q1/pa/q1pamodel.png (PNG copy)>]
-<images/q1/pa/loss.png, id=329, 393.47pt x 279.0425pt>
+ [12 <./images/q1/pa/q1pamodel.png (PNG copy)>]
+<images/q1/pa/loss.png, id=352, 393.47pt x 279.0425pt>
 File: images/q1/pa/loss.png Graphic file (type png)
 <use images/q1/pa/loss.png>
-Package pdftex.def Info: images/q1/pa/loss.png  used on input line 206.
+Package pdftex.def Info: images/q1/pa/loss.png  used on input line 220.
 (pdftex.def)             Requested size: 276.00105pt x 195.7329pt.
  [13 <./images/q1/pa/accuracy.png> <./images/q1/pa/loss.png>]
-<images/q1/pa/results.png, id=336, 534.23117pt x 201.22235pt>
+<images/q1/pa/results.png, id=359, 534.23117pt x 201.22235pt>
 File: images/q1/pa/results.png Graphic file (type png)
 <use images/q1/pa/results.png>
-Package pdftex.def Info: images/q1/pa/results.png  used on input line 220.
+Package pdftex.def Info: images/q1/pa/results.png  used on input line 234.
 (pdftex.def)             Requested size: 276.00105pt x 103.95766pt.
-<images/q1/pa/matrix.png, id=338, 364.36125pt x 256.96pt>
+<images/q1/pa/matrix.png, id=361, 364.36125pt x 256.96pt>
 File: images/q1/pa/matrix.png Graphic file (type png)
 <use images/q1/pa/matrix.png>
-Package pdftex.def Info: images/q1/pa/matrix.png  used on input line 232.
+Package pdftex.def Info: images/q1/pa/matrix.png  used on input line 246.
 (pdftex.def)             Requested size: 276.00105pt x 194.65251pt.
-) [14 <./images/q1/pa/results.png (PNG copy)> <./images/q1/pa/matrix.png>] (./sections/Question1/PartB/partB.tex [15]
-Overfull \hbox (10.53696pt too wide) in paragraph at lines 67--70
-\T1/ptm/m/n/10 The out-put for the neuran net-work struc-ture was again prin-ted us-ing the ``model.summary''
+) [14 <./images/q1/pa/results.png (PNG copy)> <./images/q1/pa/matrix.png>] (./sections/Question1/PartB/partB.tex
+<images/Code/dropout.png, id=369, 1479.5275pt x 2121.9275pt>
+File: images/Code/dropout.png Graphic file (type png)
+<use images/Code/dropout.png>
+Package pdftex.def Info: images/Code/dropout.png  used on input line 24.
+(pdftex.def)             Requested size: 276.00105pt x 395.82062pt.
+ [15] [16 <./images/Code/dropout.png>]
+Overfull \hbox (8.31685pt too wide) in paragraph at lines 78--81
+\T1/ptm/m/n/10 The out-put for the neural net-work struc-ture was again prin-ted us-ing the ``model.summary''
  []
 
-<images/q1/pb/q1pbmodel.png, id=350, 403.86177pt x 376.22911pt>
+<images/q1/pb/q1pbmodel.png, id=381, 403.86177pt x 376.22911pt>
 File: images/q1/pb/q1pbmodel.png Graphic file (type png)
 <use images/q1/pb/q1pbmodel.png>
-Package pdftex.def Info: images/q1/pb/q1pbmodel.png  used on input line 73.
+Package pdftex.def Info: images/q1/pb/q1pbmodel.png  used on input line 84.
 (pdftex.def)             Requested size: 276.00105pt x 257.12407pt.
-[16]
-<images/q1/pb/accuracy.png, id=360, 406.51875pt x 299.1175pt>
+[17]
+<images/q1/pb/accuracy.png, id=392, 406.51875pt x 299.1175pt>
 File: images/q1/pb/accuracy.png Graphic file (type png)
 <use images/q1/pb/accuracy.png>
-Package pdftex.def Info: images/q1/pb/accuracy.png  used on input line 84.
+Package pdftex.def Info: images/q1/pb/accuracy.png  used on input line 95.
 (pdftex.def)             Requested size: 276.00105pt x 203.08684pt.
- [17 <./images/q1/pb/q1pbmodel.png (PNG copy)>]
-<images/q1/pb/loss.png, id=368, 415.5525pt x 299.1175pt>
+ [18 <./images/q1/pb/q1pbmodel.png (PNG copy)>]
+<images/q1/pb/loss.png, id=399, 415.5525pt x 299.1175pt>
 File: images/q1/pb/loss.png Graphic file (type png)
 <use images/q1/pb/loss.png>
-Package pdftex.def Info: images/q1/pb/loss.png  used on input line 94.
+Package pdftex.def Info: images/q1/pb/loss.png  used on input line 105.
 (pdftex.def)             Requested size: 276.00105pt x 198.6733pt.
- [18 <./images/q1/pb/accuracy.png> <./images/q1/pb/loss.png>]
-<images/q1/pb/results.png, id=375, 534.23117pt x 202.6394pt>
+ [19 <./images/q1/pb/accuracy.png> <./images/q1/pb/loss.png>]
+<images/q1/pb/results.png, id=406, 534.23117pt x 202.6394pt>
 File: images/q1/pb/results.png Graphic file (type png)
 <use images/q1/pb/results.png>
-Package pdftex.def Info: images/q1/pb/results.png  used on input line 106.
+Package pdftex.def Info: images/q1/pb/results.png  used on input line 117.
 (pdftex.def)             Requested size: 276.00105pt x 104.68974pt.
-<images/q1/pb/matrix.png, id=376, 364.36125pt x 256.96pt>
+<images/q1/pb/matrix.png, id=407, 364.36125pt x 256.96pt>
 File: images/q1/pb/matrix.png Graphic file (type png)
 <use images/q1/pb/matrix.png>
-Package pdftex.def Info: images/q1/pb/matrix.png  used on input line 117.
+Package pdftex.def Info: images/q1/pb/matrix.png  used on input line 128.
 (pdftex.def)             Requested size: 276.00105pt x 194.65251pt.
-) [19 <./images/q1/pb/results.png (PNG copy)> <./images/q1/pb/matrix.png>] (./sections/Question1/PartC/partC.tex [20]
-<images/q1/pc/q1pcmodel.png, id=388, 396.77647pt x 254.36206pt>
+) [20 <./images/q1/pb/results.png (PNG copy)> <./images/q1/pb/matrix.png>] (./sections/Question1/PartC/partC.tex
+<images/Code/dataaug.png, id=416, 1499.6025pt x 672.5125pt>
+File: images/Code/dataaug.png Graphic file (type png)
+<use images/Code/dataaug.png>
+Package pdftex.def Info: images/Code/dataaug.png  used on input line 29.
+(pdftex.def)             Requested size: 276.00105pt x 123.76637pt.
+ [21]
+<images/q1/pc/q1pcmodel.png, id=422, 396.77647pt x 254.36206pt>
 File: images/q1/pc/q1pcmodel.png Graphic file (type png)
 <use images/q1/pc/q1pcmodel.png>
-Package pdftex.def Info: images/q1/pc/q1pcmodel.png  used on input line 36.
+Package pdftex.def Info: images/q1/pc/q1pcmodel.png  used on input line 47.
 (pdftex.def)             Requested size: 276.00105pt x 176.94606pt.
-<images/q1/pc/accuracy.png, id=391, 406.51875pt x 299.1175pt>
+ [22 <./images/Code/dataaug.png>]
+<images/q1/pc/accuracy.png, id=430, 406.51875pt x 299.1175pt>
 File: images/q1/pc/accuracy.png Graphic file (type png)
 <use images/q1/pc/accuracy.png>
-Package pdftex.def Info: images/q1/pc/accuracy.png  used on input line 48.
+Package pdftex.def Info: images/q1/pc/accuracy.png  used on input line 59.
 (pdftex.def)             Requested size: 276.00105pt x 203.08684pt.
- [21 <./images/q1/pc/q1pcmodel.png (PNG copy)>]
-<images/q1/pc/loss.png, id=399, 406.51875pt x 299.1175pt>
+ [23 <./images/q1/pc/q1pcmodel.png (PNG copy)> <./images/q1/pc/accuracy.png>]
+<images/q1/pc/loss.png, id=440, 406.51875pt x 299.1175pt>
 File: images/q1/pc/loss.png Graphic file (type png)
 <use images/q1/pc/loss.png>
-Package pdftex.def Info: images/q1/pc/loss.png  used on input line 58.
+Package pdftex.def Info: images/q1/pc/loss.png  used on input line 69.
 (pdftex.def)             Requested size: 276.00105pt x 203.08684pt.
- [22 <./images/q1/pc/accuracy.png> <./images/q1/pc/loss.png>]
-<images/q1/pc/results.png, id=406, 532.81412pt x 202.6394pt>
+<images/q1/pc/results.png, id=441, 532.81412pt x 202.6394pt>
 File: images/q1/pc/results.png Graphic file (type png)
 <use images/q1/pc/results.png>
-Package pdftex.def Info: images/q1/pc/results.png  used on input line 70.
+Package pdftex.def Info: images/q1/pc/results.png  used on input line 81.
 (pdftex.def)             Requested size: 276.00105pt x 104.96803pt.
-<images/q1/pc/matrix.png, id=407, 364.36125pt x 256.96pt>
+<images/q1/pc/matrix.png, id=442, 364.36125pt x 256.96pt>
 File: images/q1/pc/matrix.png Graphic file (type png)
 <use images/q1/pc/matrix.png>
-Package pdftex.def Info: images/q1/pc/matrix.png  used on input line 81.
+Package pdftex.def Info: images/q1/pc/matrix.png  used on input line 92.
 (pdftex.def)             Requested size: 276.00105pt x 194.65251pt.
-) [23 <./images/q1/pc/results.png (PNG copy)> <./images/q1/pc/matrix.png>] (./sections/Question1/PartD/partD.tex) (./sections/Question1/PartE/partE.tex) (./sections/Question2/intro.tex [24]) (./sections/Question2/partA.tex) (./sections/Question2/partB.tex) (./sections/conclusion.tex) [25] [26]
+ [24 <./images/q1/pc/loss.png> <./images/q1/pc/results.png (PNG copy)>]) (./sections/Question1/PartD/partD.tex [25 <./images/q1/pc/matrix.png>]
+<images/Code/batchnorm.png, id=455, 1479.5275pt x 2121.9275pt>
+File: images/Code/batchnorm.png Graphic file (type png)
+<use images/Code/batchnorm.png>
+Package pdftex.def Info: images/Code/batchnorm.png  used on input line 24.
+(pdftex.def)             Requested size: 276.00105pt x 395.82062pt.
+ [26] [27 <./images/Code/batchnorm.png>]
+<images/q1/pd/q1pdmodel.png, id=467, 401.02765pt x 378.3547pt>
+File: images/q1/pd/q1pdmodel.png Graphic file (type png)
+<use images/q1/pd/q1pdmodel.png>
+Package pdftex.def Info: images/q1/pd/q1pdmodel.png  used on input line 65.
+(pdftex.def)             Requested size: 276.00105pt x 260.41264pt.
+ [28]
+<images/q1/pd/accuracy.png, id=475, 406.51875pt x 299.1175pt>
+File: images/q1/pd/accuracy.png Graphic file (type png)
+<use images/q1/pd/accuracy.png>
+Package pdftex.def Info: images/q1/pd/accuracy.png  used on input line 77.
+(pdftex.def)             Requested size: 276.00105pt x 203.08684pt.
+ [29 <./images/q1/pd/q1pdmodel.png (PNG copy)>]
+<images/q1/pd/loss.png, id=484, 391.4625pt x 299.1175pt>
+File: images/q1/pd/loss.png Graphic file (type png)
+<use images/q1/pd/loss.png>
+Package pdftex.def Info: images/q1/pd/loss.png  used on input line 84.
+(pdftex.def)             Requested size: 276.00105pt x 210.90524pt.
+ [30 <./images/q1/pd/accuracy.png> <./images/q1/pd/loss.png>]
+<images/q1/pd/q1pdresults.png, id=491, 533.52264pt x 204.05647pt>
+File: images/q1/pd/q1pdresults.png Graphic file (type png)
+<use images/q1/pd/q1pdresults.png>
+Package pdftex.def Info: images/q1/pd/q1pdresults.png  used on input line 95.
+(pdftex.def)             Requested size: 276.00105pt x 105.56508pt.
+<images/q1/pd/matrix.png, id=492, 364.36125pt x 256.96pt>
+File: images/q1/pd/matrix.png Graphic file (type png)
+<use images/q1/pd/matrix.png>
+Package pdftex.def Info: images/q1/pd/matrix.png  used on input line 106.
+(pdftex.def)             Requested size: 276.00105pt x 194.65251pt.
+) [31 <./images/q1/pd/q1pdresults.png (PNG copy)> <./images/q1/pd/matrix.png>] (./sections/Question1/PartE/partE.tex
+<images/Code/combo.png, id=500, 1479.5275pt x 2236.355pt>
+File: images/Code/combo.png Graphic file (type png)
+<use images/Code/combo.png>
+Package pdftex.def Info: images/Code/combo.png  used on input line 25.
+(pdftex.def)             Requested size: 276.00105pt x 417.16573pt.
+ [32] [33 <./images/Code/combo.png>]
+<images/q1/pe/q1pemodel.png, id=511, 398.19353pt x 379.77176pt>
+File: images/q1/pe/q1pemodel.png Graphic file (type png)
+<use images/q1/pe/q1pemodel.png>
+Package pdftex.def Info: images/q1/pe/q1pemodel.png  used on input line 67.
+(pdftex.def)             Requested size: 276.00105pt x 263.23073pt.
+ [34]
+<images/q1/pe/accuracy.png, id=517, 406.51875pt x 299.1175pt>
+File: images/q1/pe/accuracy.png Graphic file (type png)
+<use images/q1/pe/accuracy.png>
+Package pdftex.def Info: images/q1/pe/accuracy.png  used on input line 81.
+(pdftex.def)             Requested size: 276.00105pt x 203.08684pt.
+ [35 <./images/q1/pe/q1pemodel.png (PNG copy)>]
+<images/q1/pe/loss.png, id=524, 406.51875pt x 299.1175pt>
+File: images/q1/pe/loss.png Graphic file (type png)
+<use images/q1/pe/loss.png>
+Package pdftex.def Info: images/q1/pe/loss.png  used on input line 89.
+(pdftex.def)             Requested size: 276.00105pt x 203.08684pt.
+ [36 <./images/q1/pe/accuracy.png> <./images/q1/pe/loss.png>]
+<images/q1/pe/results.png, id=535, 533.52264pt x 201.22235pt>
+File: images/q1/pe/results.png Graphic file (type png)
+<use images/q1/pe/results.png>
+Package pdftex.def Info: images/q1/pe/results.png  used on input line 101.
+(pdftex.def)             Requested size: 276.00105pt x 104.09889pt.
+<images/q1/pe/matrix.png, id=537, 364.36125pt x 256.96pt>
+File: images/q1/pe/matrix.png Graphic file (type png)
+<use images/q1/pe/matrix.png>
+Package pdftex.def Info: images/q1/pe/matrix.png  used on input line 111.
+(pdftex.def)             Requested size: 276.00105pt x 194.65251pt.
+) (./sections/Question2/intro.tex [37 <./images/q1/pe/results.png (PNG copy)> <./images/q1/pe/matrix.png>]) (./sections/Question2/partA.tex [38]
+<images/Code/transfer.png, id=548, 1499.6025pt x 748.7975pt>
+File: images/Code/transfer.png Graphic file (type png)
+<use images/Code/transfer.png>
+Package pdftex.def Info: images/Code/transfer.png  used on input line 41.
+(pdftex.def)             Requested size: 276.00105pt x 137.80554pt.
+<images/Code/freeze.png, id=550, 1499.6025pt x 519.9425pt>
+File: images/Code/freeze.png Graphic file (type png)
+<use images/Code/freeze.png>
+Package pdftex.def Info: images/Code/freeze.png  used on input line 52.
+(pdftex.def)             Requested size: 276.00105pt x 95.68803pt.
+ [39 <./images/Code/transfer.png>]
+<images/q2/model.png, id=559, 576.03441pt x 337.26pt>
+File: images/q2/model.png Graphic file (type png)
+<use images/q2/model.png>
+Package pdftex.def Info: images/q2/model.png  used on input line 71.
+(pdftex.def)             Requested size: 276.00105pt x 161.59477pt.
+ [40 <./images/Code/freeze.png>]
+<images/q2/accuracy.png, id=567, 406.51875pt x 299.1175pt>
+File: images/q2/accuracy.png Graphic file (type png)
+<use images/q2/accuracy.png>
+Package pdftex.def Info: images/q2/accuracy.png  used on input line 82.
+(pdftex.def)             Requested size: 276.00105pt x 203.08684pt.
+ [41 <./images/q2/model.png (PNG copy)> <./images/q2/accuracy.png>]
+<images/q2/loss.png, id=576, 420.57124pt x 299.1175pt>
+File: images/q2/loss.png Graphic file (type png)
+<use images/q2/loss.png>
+Package pdftex.def Info: images/q2/loss.png  used on input line 93.
+(pdftex.def)             Requested size: 276.00105pt x 196.29993pt.
+<images/q2/results.png, id=578, 535.64824pt x 178.54941pt>
+File: images/q2/results.png Graphic file (type png)
+<use images/q2/results.png>
+Package pdftex.def Info: images/q2/results.png  used on input line 109.
+(pdftex.def)             Requested size: 276.00105pt x 92.00165pt.
+ [42 <./images/q2/loss.png>]
+<images/q2/matrix.png, id=586, 374.39874pt x 256.96pt>
+File: images/q2/matrix.png Graphic file (type png)
+<use images/q2/matrix.png>
+Package pdftex.def Info: images/q2/matrix.png  used on input line 123.
+(pdftex.def)             Requested size: 276.00105pt x 189.43773pt.
+) (./sections/Question2/partB.tex) [43 <./images/q2/results.png (PNG copy)> <./images/q2/matrix.png>] (./sections/conclusion.tex) [44] (./sections/appendices.tex (/usr/share/texlive/texmf-dist/tex/latex/listings/lstlang1.sty
+File: lstlang1.sty 2018/09/02 1.7 listings language file
+) (./code/q1pa.py [45
 
-LaTeX Warning: Empty bibliography on input line 80.
+] [46] [47] [48] [49] [50]
+LaTeX Font Info:    Try loading font information for TS1+ptm on input line 186.
+ (/usr/share/texlive/texmf-dist/tex/latex/psnfss/ts1ptm.fd
+File: ts1ptm.fd 2001/06/04 font definitions for TS1/ptm.
+) [51]) (./code/q1pb.py [52] [53] [54] [55] [56] [57] [58] [59]) (./code/q1pc.py [60] [61] [62] [63] [64] [65] [66]) (./code/q1pd.py [67] [68] [69] [70] [71] [72] [73] [74]) (./code/q1pe.py [75] [76] [77] [78] [79] [80] [81]) [82] (./code/q2a.py [83] [84] [85] [86] [87]))
 
-Package atveryend Info: Empty hook `BeforeClearDocument' on input line 81.
-Package atveryend Info: Empty hook `AfterLastShipout' on input line 81.
-(./Assignment1.aux)
-Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 81.
-Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 81.
+LaTeX Warning: Empty bibliography on input line 83.
+
+Package atveryend Info: Empty hook `BeforeClearDocument' on input line 84.
+[88]
+Package atveryend Info: Empty hook `AfterLastShipout' on input line 84.
+ (./Assignment1.aux)
+Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 84.
+Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 84.
 Package rerunfilecheck Info: File `Assignment1.out' has not changed.
-(rerunfilecheck)             Checksum: AB352E260C15E7C875AB766F27F6CABC;2881.
+(rerunfilecheck)             Checksum: D07CB811B3497BAE4B5B35E16839152E;3101.
 Package logreq Info: Writing requests to 'Assignment1.run.xml'.
 \openout1 = `Assignment1.run.xml'.
 
-Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 81.
+Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 84.
  ) 
 Here is how much of TeX's memory you used:
- 16652 strings out of 492615
- 269151 string characters out of 6131390
- 740128 words of memory out of 5000000
- 20161 multiletter control sequences out of 15000+600000
- 53588 words of font info for 63 fonts, out of 8000000 for 9000
+ 18695 strings out of 492615
+ 297987 string characters out of 6131390
+ 816509 words of memory out of 5000000
+ 20865 multiletter control sequences out of 15000+600000
+ 54397 words of font info for 66 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
- 41i,8n,42p,945b,2229s stack positions out of 5000i,500n,10000p,200000b,80000s
-{/usr/share/texmf/fonts/enc/dvips/cm-super/cm-super-t1.enc}{/usr/share/texlive/texmf-dist/fonts/enc/dvips/base/8r.enc}</usr/share/texmf/fonts/type1/public/cm-super/sftt1000.pfb></usr/share/texlive/texmf-dist/fonts/type1/urw/times/utmb8a.pfb></usr/share/texlive/texmf-dist/fonts/type1/urw/times/utmr8a.pfb></usr/share/texlive/texmf-dist/fonts/type1/urw/times/utmri8a.pfb>
-Output written on Assignment1.pdf (28 pages, 1015545 bytes).
+ 41i,8n,43p,945b,2229s stack positions out of 5000i,500n,10000p,200000b,80000s
+{/usr/share/texmf/fonts/enc/dvips/cm-super/cm-super-t1.enc}{/usr/share/texlive/texmf-dist/fonts/enc/dvips/base/8r.enc}</usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy10.pfb></usr/share/texmf/fonts/type1/public/cm-super/sftt1000.pfb></usr/share/texlive/texmf-dist/fonts/type1/urw/times/utmb8a.pfb></usr/share/texlive/texmf-dist/fonts/type1/urw/times/utmr8a.pfb></usr/share/texlive/texmf-dist/fonts/type1/urw/times/utmri8a.pfb>
+Output written on Assignment1.pdf (90 pages, 2678009 bytes).
 PDF statistics:
- 469 PDF objects out of 1000 (max. 8388607)
- 398 compressed objects within 4 object streams
- 98 named destinations out of 1000 (max. 500000)
- 461 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 2311 PDF objects out of 2487 (max. 8388607)
+ 2121 compressed objects within 22 object streams
+ 1393 named destinations out of 1440 (max. 500000)
+ 603 words of extra memory for PDF output out of 10000 (max. 10000000)
 

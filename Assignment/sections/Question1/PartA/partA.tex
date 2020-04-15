@@ -34,7 +34,7 @@ class mode. For the given dataset, the directories are ``train'',
 ``validation'', and ``test''. The target size for each of the images is 224x224,
 and the class mode is ``categorical'', as there are multiple classes of output.
 For the test data, the class mode must be set to ``None'', and the data must not
-be shuffled, as specified by the arguement ``shuffle=False''.
+be shuffled, as specified by the argument ``shuffle=False''.
 
 \begin{figure}[H]
 	\centering
@@ -57,7 +57,7 @@ case, the specified pool size is 2x2. There are two additional 2D convolutional
 layers, with 64 output filters, followed by another 2D pooling layer.
 
 A Flatten layer is added before the fully connected layers of the model. The
-Keras ``Flatten'' function takes no input arguements.
+Keras ``Flatten'' function takes no input arguments.
 
 Each of the final Dense layers use the ``glorot\_uniform'' kernel initializer.
 The first Dense layer has 512 output units and ``relu'' activation. The final
@@ -73,6 +73,20 @@ The finalized neural network is shown in Figure \ref{fig:q1Model}.
 	\caption{Question 1 Base Model}
 	\label{fig:q1Model}
 \end{figure}
+
+The model is compiled using the ``Adam'' optimizer,
+``categorical\_crossentropy'' loss model, and has a metrics argument which
+defines the metric on which the model is evaluated on as the ``accuracy''.
+
+\begin{figure}[H]
+	\centering
+	\includegraphics[width=0.8\textwidth]{images/Code/compile}
+	\caption{Compile Function}
+	\label{fig:images-Code-compile}
+\end{figure}
+
+Following the compile is the code required to train and evaluate the model. This
+code can be found in the listings within the appendices.
 
 \subsubsection{Testing}
 
@@ -194,7 +208,7 @@ validation accuracy of 79.50\%.
 \begin{figure}[H]
 	\centering
 	\includegraphics[width=0.8\textwidth]{images/q1/pa/accuracy}
-	\caption{Validation and Training Acccuracy}
+	\caption{Validation and Training Accuracy}
 	\label{fig:q1paAcc}
 \end{figure}
 
@@ -222,7 +236,7 @@ to the ``English Springer'' class.
 	\label{fig:q1paRes}
 \end{figure}
 
-The final confustion matrix, as shown in Figure \ref{fig:q1paMatrix}, shows the
+The final confusion matrix, as shown in Figure \ref{fig:q1paMatrix}, shows the
 number of correctly identified samples in testing, and as previously noted, the
 class with the highest precision and recall is ``Parachute'' labelled as ``4''
 within the matrix.
@@ -237,4 +251,4 @@ within the matrix.
 Using early stopping, the model ran for a total of 14 epochs. The training time
 for the model was 436.109 seconds. Given that 1 hour of training on an Nvidia
 GPU produces approximately 0.25lbs of CO2 equivalent emissions, this training
-has an emission output of 0.03lbs CO2 equivalent emissions.
+has an emission output of 1.817lbs CO2 equivalent emissions.

@@ -13,12 +13,23 @@ input image.
 
 \subsubsection{Design}
 
-For this section, the values in the ``testDataGenerator'' were modified. The
+For this section, the values in the ``testDataGenerator'' were modified (Figure
+\ref{fig:images-Code-dataaug}. The
 width shift range and height shift range were given values of 0.1, while the
-horizontal and vertical flip arguements were given ``True'' values. The width
+horizontal and vertical flip arguments were given ``True'' values. The width
 shift range and height shift range take a float value and shift the image the
 input fraction of the width/height, in this case 1/10th. The horizontal and
 vertical flip randomly mirror the image along the horizontal or vertical planes.
+
+No other changes were made to the code from Part a, and a full listing of the
+code can be seen in the appendices.
+
+\begin{figure}[H]
+	\centering
+	\includegraphics[width=0.8\textwidth]{images/Code/dataaug}
+	\caption{Data Augmentation Modifications}
+	\label{fig:images-Code-dataaug}
+\end{figure}
 
 \subsubsection{Testing}
 

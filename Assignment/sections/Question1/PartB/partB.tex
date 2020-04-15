@@ -13,7 +13,18 @@ accuracy.
 
 \subsubsection{Design}
 
-Dropout layers are
+Dropout layers are typically added to the end of a block and before the output
+classifier. There are a
+total of three dropout layers added to the model, as shown in Figure
+\ref{fig:images-Code-dropout}. No other changes were made to the code, and a
+full listing of this code can be found in the appendices.
+
+\begin{figure}[H]
+	\centering
+	\includegraphics[width=0.8\textwidth]{images/Code/dropout}
+	\caption{Model including Dropout}
+	\label{fig:images-Code-dropout}
+\end{figure}
 
 \subsubsection{Testing}
 
@@ -59,12 +70,12 @@ table above.
 	\end{tabular}
 \end{table}
 
-Using this value for the dropout rate, the earling stopping patience value was
+Using this value for the dropout rate, the early stopping patience value was
 increased to 7, and the training was set to run for 30 epochs.
 
 \subsubsection{Results}
 
-The output for the neuran network structure was again printed using the
+The output for the neural network structure was again printed using the
 ``model.summary'' function in keras, as seen in Figure \ref{fig:q1pbmodel}.
 This shows the placement of the Dropout layers, as previously discussed.
 
@@ -121,4 +132,4 @@ testing. It is clear that the class with the highest precision and recall is
 
 Using early stopping, the model ran for a total of 14 epochs. The training time
 for the model was 493.8769 seconds, which gives an emission output of 2.058lbs
-CO2 equivalent emissions. This value is much higher than the value in Part a.
+CO2 equivalent emissions. This value is higher than the value in Part a.
