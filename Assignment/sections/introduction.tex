@@ -1,0 +1,13 @@
+Using Keras, two separate image classification problems will be solved. The
+first of these problems involves developing a classifier for a subset of the
+ImageNet dataset. This classifier is based on the VGG-16D neural network.
+
+The second problem involves performing transfer learning on the ResNet50 CNN.
+The lower 141 layers of the base model must not be modified, with only the upper
+33 layers being modified. This is done using the Tensorflow Keras ResNet50
+model, and the freeze functionality which is built in.
+
+Google Colab is used as the development environment for this assignment. With
+access to a GPU, training can be accelerated. Colab allows for the importing of
+data from a mounted Google Drive volume, the importing of Python libraries, and
+the saving and exporting of the trained models.

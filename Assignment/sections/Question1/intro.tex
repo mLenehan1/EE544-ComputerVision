@@ -1,0 +1,18 @@
+The aim of section 1 of this assignment is to create an ``ImageNet'' style
+classifier. The provided dataset contains pictures divided into 6 classes,
+which are ``Church'', ``English Springer'', ``Garbage Truck'', ``Gas Pump'',
+``Parachute'', and ``Tench''. The data has been provided in three subsets,
+training, validation, and test subsets. This removes the need to do test-train
+splitting. The dataset is relatively small, with a size of 1350 images
+per class, totaling 8100 images,
+compared to the 14 million images in the original ``ImageNet'' dataset.
+
+The provided CNN structure is based on the ``VGG'' neural network. The base
+network has a total of 9 layers. The input images are of size 224x224, and the
+CNN must output a classification decision based on the the image classes. This
+section of the assignment is divided into five sections. The first involves
+building the base CNN. Subsequent sections build on top of this, adding dropout,
+data augmentation, and batch normalization to the nerual network in order to
+assess the performance impact of these features. The final section involves
+creating a final version of the neural network, which has the highest achievable
+performance.

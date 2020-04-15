@@ -1,0 +1,55 @@
+\subsubsection{Introduction}
+
+The aim of Part b is to apply ``Dropout'' to the neural network designed in Part
+A. The hyperperameters, i.e. the dropout rate, needs to be tuned in order to
+obtain an optimal performance from the network.
+
+\subsubsection{Rational}
+
+Dropout is a technique used in Neural Networks in order to prevent over-fitting.
+By dropping certain neurons at random during testing, the network must learn
+features which are considered ``robust''. This will lead to a greater test
+accuracy.
+
+\subsubsection{Design}
+
+\subsubsection{Testing}
+
+For the purposes of testing, the dropout rate was the hyperparameter being
+tuned. The dropout rate of the first two dropout layers was set to 0.1 as a
+baseline measurement, while the rate of the dropout rate before the final
+``Dense'' layer was modified. This resulted in an optimum value of XX given for
+the final dropout layer, as shown in the table below.
+
+\begin{table}[H]
+	\centering
+	\caption{Dropout Hyperparameter Tuning}
+	\label{tab:d1hyp}
+	\begin{tabular}{|c|c|}
+	\hline
+	Dropout Rate & Validation Accuracy \\
+	\hline
+	0.55 & \\
+	0.5 & 78.5 \\
+	0.25 & 74.7 \\
+	0.1 & 76.17 \\
+	\hline
+	\end{tabular}
+\end{table}
+
+Setting this dropout rate, the dropout rates of the other two dropout layers are
+changed simultaneously.
+
+\begin{table}[H]
+	\centering
+	\caption{Dropout Hyperparameter Tuning}
+	\label{tab:d2hyp}
+	\begin{tabular}{|c|c|}
+	\hline
+	Dropout Rate & Validation Accuracy \\
+	\hline
+	\hline
+	\end{tabular}
+\end{table}
+
+\subsubsection{Results}
